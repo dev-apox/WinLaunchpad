@@ -2,7 +2,7 @@
 
 **WinLaunchpad** is an elegant, lightweight, and fluid clone of the famous macOS "Launchpad", natively redesigned for Windows. Developed in Python using Tkinter, it provides a full-screen interface to quickly access all your programs, games, and files while keeping your desktop clean.
 
-![WinLaunchpad Interface](assets/esempio.png)
+![WinLaunchpad Interface](assets/pin1.png)
 
 ## ✨ Key Features
 
