@@ -20,8 +20,8 @@ You can run **WinLaunchpad** in two different ways depending on your preferences
 
 ### 1. Ready-to-Use Windows Installer (Recommended)
 You do not need Python or any dependencies installed. Simply download the standalone setup installer:
-* [🌐 **Official Web Page**](https://denisdev.online/projects/launcher/index.html)
-* 💾 **Direct Installer Download:** [WinLaunchpad_Setup_v1.0.exe](https://denisdev.altervista.org/WinLaunchpad_Setup_v1.0.exe)
+
+* 💾 **Direct Installer Download:** [WinLaunchpad_Setup_v1.0.exe](https://denisde.online/WinLaunchpad_Setup_v1.0.exe)
 
 ### 2. Python Source Code (`launchpad.pyw`)
 If you want to run the application directly from the source code:
